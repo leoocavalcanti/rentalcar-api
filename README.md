@@ -1,15 +1,6 @@
 # Locadora de carros
 Aluguel de carros onde usuários cadastrados podem reservar veículos para alugar.
 
-## Integrantes do projeto
-
- * Guilherme Augusto de Andrade - gaandrade25@gmail.com
- * Leonardo Henrique Cavalcanti - leonardohenrique521@gmail.com
- * Raphael Silvestre Barbosa - raphaelbarbosa0@icloud.com
- * Pedro Arruda - pedroarruda10005@gmail.com
-
-## Guia para instalação do projeto
-
 ```
 • passo 1: git clone no repositório
 • passo 2: instalar as dependências na pasta frontend com o comando "yarn install" no git bash
